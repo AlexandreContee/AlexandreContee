@@ -1,6 +1,8 @@
-  ## Olá, sou o Alexandre Conte
-- 🎓 Estou cursando Sistemas de informação e me interesso muito por front-end no momento
-- 🎯 Aprendendo de tudo, focando em React
+  ## Olá, me chamo Alexandre Conte
+  
+- 🎃 Cursei 3 anos de Engenharia;
+- 🎓 Estou cursando Sistemas de informação e me interesso muito por front-end no momento;
+- 🎯 Aprendendo de tudo, focando em React;
 
 <div>
 		<a href="https://github.com/AlexandreContee"></a>
