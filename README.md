@@ -1,8 +1,8 @@
   ## Olá, me chamo Alexandre Conte
   
-- 🎃 Cursei 3 anos de Engenharia;
-- 🎓 Estou cursando Sistemas de informação e me interesso muito por front-end no momento;
-- 🎯 Aprendendo de tudo, focando em React;
+- 🎃 Attended 3 years of engineering at _Instituto Federal de Santa Catarina_;
+- 🎓 I am now studying **_Computer Information Systems_** and I am a lot interested in front-end at the moment;
+- 🎯 Learning **React** by my own with online courses;
 
 <div>
   <a href="https://github.com/AlexandreContee"></a>
