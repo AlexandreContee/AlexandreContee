@@ -2,7 +2,7 @@
   
 - 🎃 Attended 3 years of engineering at _Instituto Federal de Santa Catarina_;
 - 🎓 I am now studying **_Computer Information Systems_** and I am a lot interested in front-end at the moment;
-- 🎯 Learning **VueJs** by my own with online courses;
+- 🎯 Learning **Angular** by my own with online courses;
 
 <div>
   <a href="https://github.com/AlexandreContee"></a>
