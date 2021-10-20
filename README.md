@@ -1,7 +1,15 @@
   ## Olá, me chamo Alexandre Conte
   
+- 🎃 Cursei 3 anos de engenharia em _Instituto Federal de Santa Catarina_;
+- 🎓 Estudante de **_Sistemas de informação_**;
+- 👨‍💻 **Front-End**;
+- 🎯 Learning **Angular** by my own with online courses;
+
+  ## Hi, I'm Alexandre Conte
+  
 - 🎃 Attended 3 years of engineering at _Instituto Federal de Santa Catarina_;
-- 🎓 I am now studying **_Computer Information Systems_** and I am a lot interested in front-end at the moment;
+- 🎓 I am now studying **_Computer Information Systems_**;
+- 👨‍💻 **Front-End**;
 - 🎯 Learning **Angular** by my own with online courses;
 
 <div>
