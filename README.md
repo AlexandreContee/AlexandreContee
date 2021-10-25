@@ -3,7 +3,7 @@
 - 🎃 Cursei 3 anos de engenharia em _Instituto Federal de Santa Catarina_;
 - 🎓 Estudante de **_Sistemas de informação_**;
 - 👨‍💻 **Front-End**;
-- 🎯 Learning **Angular** by my own with online courses;
+- 🎯 Aprendendo **Angular** por meio de cursos online;
 
   ## Hi, I'm Alexandre Conte
   
