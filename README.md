@@ -1,16 +1,18 @@
   ## Olá, me chamo Alexandre Conte
   
-- 🎃 Cursei 3 anos de engenharia em _Instituto Federal de Santa Catarina_;
-- 🎓 Estudante de **_Sistemas de informação_**;
-- 👨‍💻 **Front-End**;
-- 🎯 Aprendendo **Next.Js** e **React** por meio de cursos online;
+- 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina;
+- 🧑‍💻 Me identifiquei muito com programação;
+- 💻 Estudo Front-End por meio de cursos online: **Next.js** e **React**;
+- 🎯 Gosto de desafios;
+- 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina;
 
   ## Hi, I'm Alexandre Conte
   
-- 🎃 Attended 3 years of engineering at _Instituto Federal de Santa Catarina_;
-- 🎓 I am now studying **_Computer Information Systems_**;
-- 👨‍💻 **Front-End**;
-- 🎯 Learning **Next.Js** and **React** with online courses;
+- 🎃 Attended 3 years of Mechanical Engineering at Instituto Federal de Santa Catarina;
+- 🧑‍💻 Enjoyed programming;
+- 💻 Studying Front-End development by online courses: **Next.Js** and **React**;
+- 🎯 I like a good challenge;
+- 📚 Information Systems at Universidade Federal de Santa Catarina;
 
 <div>
   <a href="https://github.com/AlexandreContee"></a>
