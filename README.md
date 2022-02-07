@@ -2,7 +2,7 @@
   
 - 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina;
 - 🧑‍💻 Me identifiquei muito com programação;
-- 💻 Estudo Front-End por meio de cursos online: **Next.js** e **React**;
+- 💻 Estudo Front-End por meio de cursos online: **ReactJs**;
 - 🎯 Gosto de desafios;
 - 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina;
 
@@ -10,7 +10,7 @@
   
 - 🎃 Attended 3 years of Mechanical Engineering at Instituto Federal de Santa Catarina;
 - 🧑‍💻 Enjoyed programming;
-- 💻 Studying Front-End development by online courses: **Next.Js** and **React**;
+- 💻 Studying Front-End development by online courses: **ReactJs**;
 - 🎯 I like a good challenge;
 - 📚 Information Systems at Universidade Federal de Santa Catarina;
 
