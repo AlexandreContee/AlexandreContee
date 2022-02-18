@@ -2,7 +2,7 @@
   
 - 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina;
 - 🧑‍💻 Me identifiquei muito com programação;
-- 💻 Estudo Front-End por meio de cursos online: **ReactJs**;
+- 💻 Estudo Front-End por meio de cursos online;
 - 🎯 Gosto de desafios;
 - 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina;
 
@@ -10,7 +10,7 @@
   
 - 🎃 Attended 3 years of Mechanical Engineering at Instituto Federal de Santa Catarina;
 - 🧑‍💻 Enjoyed programming;
-- 💻 Studying Front-End development by online courses: **ReactJs**;
+- 💻 Studying Front-End development by online courses;
 - 🎯 I like a good challenge;
 - 📚 Information Systems at Universidade Federal de Santa Catarina;
 
@@ -22,13 +22,9 @@
 
 <div style="display: inline_block;" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
   ##
