@@ -1,22 +1,23 @@
   ## Olá, me chamo Alexandre Conte
   
-- 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina;
+- 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina (IFSC);
 - 🧑‍💻 Me identifiquei muito com programação;
 - 💻 Estudo Front-End por meio de cursos online;
+- 🏢 Trainee da Pixel;
 - 🎯 Gosto de desafios;
-- 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina;
+- 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
 
   ## Hi, I'm Alexandre Conte
   
-- 🎃 Attended 3 years of Mechanical Engineering at Instituto Federal de Santa Catarina;
+- 🎃 Attended 3 years of Mechanical Engineering at Federal Institute of Santa Catarina (IFSC);
 - 🧑‍💻 Enjoyed programming;
 - 💻 Studying Front-End development by online courses;
+- 🏢 Trainee at Pixel;
 - 🎯 I like a good challenge;
-- 📚 Information Systems at Universidade Federal de Santa Catarina;
+- 📚 Information Systems at Federal University of Santa Catarina (UFSC);
 
 <div align="center">
   <a href="https://github.com/AlexandreContee"></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreContee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreContee&layout=compact&langs_count=7&theme=dracula">
 </div>
 
@@ -35,5 +36,3 @@
   <a href="https://www.linkedin.com/in/alexandreconteprog/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/alexandrecontee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/AlexandreContee/AlexandreContee/blob/output/github-contribution-grid-snake.svg)
