@@ -1,20 +1,19 @@
   ## Olá, me chamo Alexandre Conte
   
-- 🎃 Cursei 3 anos de Engenharia Mecânica no Instituto Federal de Santa Catarina (IFSC);
-- 🧑‍💻 Me identifiquei muito com programação;
-- 💻 Estudo Front-End por meio de cursos online;
+- 💻 Estudo desenvolvimento por meio de cursos online: React;
+- 📖 Sou autodidata - Estudar de casa é incrível;
 - 🏢 Trainee da Pixel;
 - 🎯 Gosto de desafios;
-- 📚 Curso Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
+- 📚 Cursando Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
 
   ## Hi, I'm Alexandre Conte
   
-- 🎃 Attended 3 years of Mechanical Engineering at Federal Institute of Santa Catarina (IFSC);
-- 🧑‍💻 Enjoyed programming;
-- 💻 Studying Front-End development by online courses;
+
+- 💻 Studying development by online courses: React;
+- 📖 I love to learn by myself: Study from home is awesome;
 - 🏢 Trainee at Pixel;
-- 🎯 I like a good challenge;
-- 📚 Information Systems at Federal University of Santa Catarina (UFSC);
+- 🎯 I like challenges;
+- 📚 Studying Information Systems at Federal University of Santa Catarina (UFSC);
 
 <div align="center">
   <a href="https://github.com/AlexandreContee"></a>
