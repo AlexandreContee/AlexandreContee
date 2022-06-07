@@ -1,19 +1,18 @@
-  ## Olá, me chamo Alexandre Conte
-  
-- 💻 Estudo desenvolvimento por meio de cursos online: React;
-- 📖 Sou autodidata - Estudar de casa é incrível;
-- 🏢 Trainee da Pixel;
-- 🎯 Gosto de desafios;
-- 📚 Cursando Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
-
   ## Hi, I'm Alexandre Conte
-  
 
-- 💻 Studying development by online courses: React;
-- 📖 I love to learn by myself: Study from home is awesome;
+- 💻 Studying development by online courses: React | React Native;
 - 🏢 Trainee at Pixel;
 - 🎯 I like challenges;
 - 📚 Studying Information Systems at Federal University of Santa Catarina (UFSC);
+- 🤯 Studied 3 years of mechanical engineering at Federal Institute of Santa Catarina (IFSC);
+
+  ## Olá, me chamo Alexandre Conte
+
+- 💻 Estudo desenvolvimento por meio de cursos online: React | React Native;
+- 🏢 Trainee da Pixel;
+- 🎯 Gosto de desafios;
+- 📚 Cursando Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
+- 🤯 Cursei 3 anos de engenharia mecância no Instituto Federal de Santa Catarina (IFSC);
 
 <div align="center">
   <a href="https://github.com/AlexandreContee"></a>
