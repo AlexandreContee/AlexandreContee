@@ -1,17 +1,13 @@
   ## Hi, I'm Alexandre Conte
 
-- 💻 Studying development by online courses: React | React Native;
-- 🏢 Trainee at Pixel;
+- 💻 Studying development;
 - 🎯 I like challenges;
-- 📚 Studying Information Systems at Federal University of Santa Catarina (UFSC);
 - 🤯 Studied 3 years of mechanical engineering at Federal Institute of Santa Catarina (IFSC);
 
   ## Olá, me chamo Alexandre Conte
 
-- 💻 Estudo desenvolvimento por meio de cursos online: React | React Native;
-- 🏢 Trainee da Pixel;
+- 💻 Estudo desenvolvimento;
 - 🎯 Gosto de desafios;
-- 📚 Cursando Sistemas de informação na Universidade Federal de Santa Catarina (UFSC);
 - 🤯 Cursei 3 anos de engenharia mecância no Instituto Federal de Santa Catarina (IFSC);
 
 <div align="center">
@@ -20,11 +16,17 @@
 </div>
 
 <div style="display: inline_block;" align="center"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java">
+</div>
+
+<div style="display: inline_block;" align="center"><br>
+  <img align="center" height="40" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
 </div>
 
   ##
